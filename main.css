@@ -1,0 +1,41 @@
+.chamomileCentre{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 300px 300px;
+}
+
+.secondch{
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: -300px 300px;
+
+}
+
+.thirdch{
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: -270px 297px;
+}
+
+.ch{
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 273px 200px;
+}
+
+.ch2{
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: -375px 401px;
+
+}
